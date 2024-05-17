@@ -1,0 +1,26 @@
+                                                                            SRS
+introduction:-
+bank website gives the proper bank customer details to the customer,bank balance,transactions.
+
+purpose:-
+to give the best customer service to the bank account users and with all featurtes.
+
+features:-
+-bank website shows the information of the customers bank account.
+-it gives the regular messages to the customer.
+
+requirements:-
+functional requirements:-
+-Introduction :-
+Requirements:-
+1)identification of documents
+2)financial information
+3)security info
+4)data security and privacy.
+
+Functional components:-
+Reports functionalities to generate insights on
+customer account info and transactions.
+Non Functional components:-
+Define access control policies and
+unauthorized access to customer required
